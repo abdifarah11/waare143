@@ -1,0 +1,13 @@
+{
+    "name": "farah01/waare143",
+    "description": "A php Aplication for tracking expecnses.",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "framework\\": "src/framework",
+            "App\\": "src/App"
+
+    }
+}
+}
